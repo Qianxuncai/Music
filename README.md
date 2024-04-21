@@ -12,3 +12,4 @@ C# 控制台听歌
 ![image](https://user-images.githubusercontent.com/46975426/186622293-85356089-1c90-4837-9906-74449984985.png)
 
 ## 说明
+大甩锅写的
